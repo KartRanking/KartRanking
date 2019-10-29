@@ -333,5 +333,4 @@
 ```
 https://github.com/hiddenidol/KartRanking
 github: @hiddenidol
-email: kart.rider.ranking a t  g m a i l (d ot) c o m
 ```
