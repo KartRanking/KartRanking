@@ -95,6 +95,9 @@
 | 82 |   조다훈 | 1424 |    0 |
 
 
+* 박현수: 샌드박스 소속.
+* 박현수B: 범스 소속으로 나왔던 박현수.
+
 ### 다음 라운드 승부예측 (16강 최종전, 100,000회의 몬테 카를로 시뮬레이션)
 
 |   | 이재혁 | 전대웅 | 박도현 | 황인호 | 배성빈 | 신종민 | 최영훈 | 박현수 |
@@ -310,8 +313,12 @@
 2019년 시즌 1 결승전 16트랙 내내 신종민을 제외한 참가 선수들의 점수에 대체로 큰 변동이 없을 정도로 경험이 있는 선수들의 실력은 잘 추정함. 신인임에도 시즌 1 승자전에서 강력한 모습을 보여 우승 후보로 급부상했던 신종민의 경우 그 경기와 2019 시즌 2 16강 1회전에서 좋지 않은 모습을 보였던 경기 후를 제외하면 대체로 안정적인 점수대를 유지하고 있음.
 
 
-* 아직 초기 버전이라 이번 오프시즌에 수정이 가해질 수 있음.
-* 박현수: 샌드박스 소속.
-* 박현수B: 범스 소속으로 나왔던 박현수.
-
-* contact: kart.rider.ranking a t  g m a i l (dot) c o m
+* 의견 및 게시글 환영합니다. 
+    - 연락처: kart.rider.ranking a t  g m a i l (dot) c o m 
+    - 또는 [이 페이지의 issue tracker](https://github.com/hiddenidol/KartRanking/issues)(github 계정 필요)
+* 이 페이지의 자료를 사용 시 다음을 명시해 주세요.
+```
+https://github.com/hiddenidol/KartRanking
+github: @hiddenidol
+email: kart.rider.ranking a t  g m a i l (d ot) c o m
+```
