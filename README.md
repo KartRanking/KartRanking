@@ -2,7 +2,7 @@
 
 카트라이더 리그 개인전 8인제 Elo 랭킹. (ver. 0.2)
 
-> I am someone who could not watch _American Idol_ without [whatnottosing.com](whatnottosing.com) and could not watch _Jeopardy!_ without [thejeopardyfan.com](thejeopardyfan.com). I started watching the KartRider league in 2018, and weirdly for a professional sporting event, could not find a good statistical analysis on it. They gave some simulated numbers on the preshow, but they were insufficient and misleading. So I made something that I would accompany watching the games.
+> I am someone who could not watch _American Idol_ without [whatnottosing.com](https://whatnottosing.com) and could not watch _Jeopardy!_ without [thejeopardyfan.com](https://thejeopardyfan.com). I started watching the KartRider league in 2018, and weirdly for a professional sporting event, could not find a good statistical analysis on it. They gave some simulated numbers on the preshow, but they were insufficient and misleading. So I made something that I would accompany watching the games.
 
 - 방법: Elo rating에 기반한 방법, [fivethirtyeight.com 에서 F1 레이싱에 적용한 방법](https://fivethirtyeight.com/features/formula-one-racing/)과 비슷한 방법을 사용함. 매  1위는 7승 0패, 2위는 6승 1패, ..., 8위는 0승 7패를 한 것으로 계산하여 점수를 한번에 업데이트. 한번에 변할 수 있는 점수의 양을 제어하는 파라미터 "K"가 있는데, 여기서는 50점제 1-3번째 경기인 선수는 10, 4-5번째 경기인 선수는 7, 6번째 이상인 선수는 5를 사용함. 
 각 선수의 시작 점수는 1600점, sigma=400 (점수 차가 400점 나는 두 선수가 1:1로 붙었을 때 점수가 높은 선수가 이길 확률이 점수가 낮은 선수의 10배). 2019년 기준 1635점=32강 평균 수준, 1700점=16강 평균 수준, 1760점=결승전 평균 수준. 
