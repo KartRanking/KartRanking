@@ -40,6 +40,8 @@
 - Ace strength difference: Sandbox +1,164
 - Ace win %: __Sandbox Gaming 89% v. 11% HLE__
 
+#### Xquare v. Oz Gaming
+
 - Xquare:
     - 안혁진, 이현진, 노창현, 오성현, 이지우
     - Speed strength: ???
